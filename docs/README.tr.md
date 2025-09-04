@@ -2,7 +2,7 @@
 
 ---
 
-🌐 **Language / Dil:** [English](README.md) | [Türkçe](docs/TR/README.tr.md)
+🌐 **Language / Dil:** [English](/README.md) | [Türkçe](docs/TR/README.tr.md)
 
 ![Uygulama Ekran Görüntüsü](/assets/screenshot_tr.png)
 
