@@ -6,6 +6,9 @@
 
 ![App Screenshot](assets/screenshot.png)
 
+💡 **The file is clean on VirusTotal:**  
+[VirusTotal scan](https://www.virustotal.com/gui/file/92a252bf6b99b025ec6fdc3c4915fe6329a366c43b124953323851fd78f43e50?nocache=1)
+
 A lightweight management tool designed for easy setup and control of Vanguard services.
 
 ## Features
