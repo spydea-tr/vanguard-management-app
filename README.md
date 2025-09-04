@@ -2,9 +2,9 @@
 
 ---
 
-🌐 **Language / Dil:** [English](README.md) | [Türkçe](README.tr.md)
+🌐 **Language / Dil:** [English](README.md) | [Türkçe](docs/TR/README.tr.md)
 
-![App Screenshot](screenshot.png)
+![App Screenshot](assets/screenshot.png)
 
 A lightweight management tool designed for easy setup and control of Vanguard services.
 
