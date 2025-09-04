@@ -4,7 +4,7 @@
 
 🌐 **Language / Dil:** [English](README.md) | [Türkçe](docs/TR/README.tr.md)
 
-![Uygulama Ekran Görüntüsü](assets/screenshot_tr.png)
+![Uygulama Ekran Görüntüsü](/assets/screenshot_tr.png)
 
 Vanguard servislerini kolayca kurmak ve yönetmek için geliştirilmiş hafif bir yönetim aracıdır.
 
